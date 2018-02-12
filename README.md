@@ -1,3 +1,5 @@
+# MOVED TO <https://github.com/goe-wikidata/doathon-20180214>
+
 ## Wikidata / SUB Do-A-Thon
 
 14 - 15 February SUB Zentralgebäude
